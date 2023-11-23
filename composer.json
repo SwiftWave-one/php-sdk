@@ -1,0 +1,17 @@
+{
+    "name": "SwiftWave/SwiftWave",
+    "authors": [
+        {
+            "name": "SwiftWave",
+            "email": "contact@swiftwave.one"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": {
+            "SwiftWave": "php-sdk/src/"
+        }
+    }
+}
