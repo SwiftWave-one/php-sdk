@@ -1,5 +1,5 @@
 {
-    "name": "SwiftWave/php-sdk",
+    "name": "swiftwave/php-sdk",
     "description": "SwiftWave Payment Gateway",
     "type": "library",
     "authors": [
