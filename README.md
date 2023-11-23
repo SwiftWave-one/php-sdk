@@ -1,6 +1,3 @@
-I apologize for the confusion earlier. Here's the entire content as a single markdown block:
-
-```markdown
 # SwiftWave PHP SDK
 
 ## Overview
